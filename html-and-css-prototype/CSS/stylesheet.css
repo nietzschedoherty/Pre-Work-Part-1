@@ -40,3 +40,128 @@ h1 {
 */
 
 /* Your CSS code goes here */
+.container2{
+			display: grid;
+			font-size: 13px;
+
+			background: white;
+			margin: 19px;
+			width: 252px;
+
+
+	}
+
+	.p1{
+		 background: #424242;
+		 color: #eaeaea;
+		 font-family: "rooney-sans", Avenir-Book, Calibri, sans-serif;
+		 font-size: 15px;
+		 height: 32px;
+		 width: 255px;
+		 border-color: #424242;
+		 border-width: 5px;
+		 border-style: solid;
+		 border-radius: 3px;
+		 text-align: center;
+		 text-justify: center;
+		 justify-self: center;
+		 justify-content: center;
+		 margin-bottom: 10px;
+		 grid-area: 1/1/2/2;
+	 }
+
+	 .graphical1{
+		 background-color: #EF5F3C;
+		 height: 10px;
+		 width: 195px;
+		 border-color: #eaeaea;
+		 border-width: 2px;
+		 border-bottom: 0;
+		 border-style: solid;
+		 grid-area: 3/1/4/2;
+	 }
+
+
+	 .p2{
+		 background: white;
+		 font-family: "rooney-web", "AmericanTypewriter", Rockwell, serif;
+		 color: #777;
+		 height: 170px;
+		 width: 227px;
+		 border-color: #eaeaea;
+		 border-width: 1px 2px 2px 2px;
+		 border-style: solid;
+		 grid-area: 4/1/5/2;
+		 padding: 18px;
+		 padding-top: 10px;
+		 line-height: 14pt;
+		 margin-bottom: 8px;
+	 }
+
+	 .p3{
+		 background: white;
+		 font-family: "rooney-sans", Avenir-Book, Calibri, sans-serif;
+		 height: 32px;
+		 width: 258px;
+		 margin: 0px;
+		 grid-area: 6/1/7/2;
+	 }
+
+	 #CodeRed{
+		 color: #EF5F3C;
+		 font-weight: bold;
+		 font-family: "rooney-sans", Avenir-Book, Calibri, sans-serif;
+	 }
+
+	 #GreenBut{
+		 background: #1CBC2C;
+		 color: white;
+		 border-color: #1CBC2C;
+		 border-width: 2px;
+		 border-style: solid;
+		 border-radius: 3px;
+		 height: 45px;
+		 width: 105px;
+		 font-size: 16px;
+		 float: right;
+	 }
+
+	 #WhyLink{
+		 color: #20A1D4;
+		 font-style: italic;
+		 font-family: "rooney-sans", Avenir-Book, Calibri, sans-serif;
+		 font-size: 13px;
+		 font-weight: bold;
+	 }
+
+	 #Bolder{
+			 font-weight: bold;
+	 }
+
+	 #WhiteBut{
+			 background: White;
+			 color: #777;
+			 font-weight: bold;
+			 font-family: "rooney-sans", Avenir-Book, Calibri, sans-serif;
+			 border-color: #eaeaea;
+			 border-width: 2px;
+			 border-style: solid;
+			 border-radius: 3px;
+			 height: 38px;
+			 width: 127px;
+			 font-size: 13px;
+
+
+	 }
+
+	 #Input{
+			 height:40px;
+			 width: 105px;
+			 font-weight: bold;
+			 font-size: 17px;
+			 border-color: #eaeaea;
+			 border-width: 2px;
+			 border-style: solid;
+			 border-radius: 3px;
+	 }
+
